@@ -1,4 +1,4 @@
-# Сгенерировано: 08.11.2026 13:38:18
+# Сгенерировано: 08.11.2026 13:58:44
 # Количество записей: 389712
 127.0.0.1 localhost
 ::1 localhost
@@ -209,7 +209,6 @@
 0.0.0.0 012.tw
 0.0.0.0 012051995582106-dot-exj-ale-bsj.appspot.com
 0.0.0.0 01210900.trashdisguisedextension.com
-0.0.0.0 01211110.infectedrepentearl.com
 0.0.0.0 0123movies.top
 0.0.0.0 013-gax-394.mktoresp.com
 0.0.0.0 01310012455959.com
