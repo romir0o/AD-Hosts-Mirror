@@ -1,4 +1,4 @@
-# Сгенерировано: 10.11.2026 17:34:19
+# Сгенерировано: 12.11.2026 20:35:13
 # Количество записей: 390175
 127.0.0.1 localhost
 ::1 localhost
@@ -626,7 +626,6 @@
 0.0.0.0 07zxhh.inapps.appsflyersdk.com
 0.0.0.0 07zzoa.cdn-settings.appsflyersdk.com
 0.0.0.0 07zzoa.launches.appsflyersdk.com
-0.0.0.0 08
 0.0.0.0 080-uqj-704.mktoresp.com
 0.0.0.0 0800apo-shop.de
 0.0.0.0 0800aposhop.com
@@ -2629,6 +2628,7 @@
 0.0.0.0 10xhellometro.112.2o7.net
 0.0.0.0 10xonegreatfamily.112.2o7.net
 0.0.0.0 10zon.com
+0.0.0.0 11
 0.0.0.0 11-0-5c8f8faa-8d83-4795-80e5-45989b229ae3.analytics.mobilegamestats.com
 0.0.0.0 11-15.net
 0.0.0.0 11.96131.com.cn
